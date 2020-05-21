@@ -1,0 +1,27 @@
+
+
+Technicain Details|Rishabh|
+Name = Rishabh	Phone No = 8084541972
+Address Details
+Address = hjhjj
+Hp = 2000	Zone = 1	Outlet = 1
+Installation Dates
+Start Date = 26/12/2020	End Date = 27/12/2020
+-------------------------------------------------------
+Technicain Details|mohit|
+Name = mohit	Phone No = 1234567890
+Address Details
+Address = kjhkjhk
+Hp = 3000	Zone = 2	Outlet = 2
+Installation Dates
+Start Date = 28/12/2020	End Date = 29/12/2020
+-------------------------------------------------------
+Technicain Details|Anuj Gupta|
+Name = Anuj Gupta	Phone No = 9910588980
+Address Details
+Address = b212
+Hp = 2000	Zone = 1	Outlet = 1
+Installation Dates
+Start Date = 31/12/2019	End Date = 01/01/2020
+-------------------------------------------------------
+

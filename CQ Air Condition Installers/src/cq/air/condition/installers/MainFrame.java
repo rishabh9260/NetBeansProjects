@@ -108,7 +108,7 @@ public class MainFrame extends FrameLayout {
                 .addContainerGap())
         );
 
-        creditsLabel.setText("Program Created By: Mohit Redhu (S12100962)");
+        creditsLabel.setText("Program Created By: Rishabh Jain(2018UIT2527)");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
